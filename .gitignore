@@ -1,0 +1,9 @@
+extracted/
+__pycache__/
+*.pyc
+.Python
+*.tmp
+data/cache_*.json
+data/*.tmp
+.DS_Store
+*.apkg:Zone.Identifier
